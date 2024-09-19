@@ -1,0 +1,36 @@
+.AppDisplay_Container
+{
+    width: 100%;
+    height: auto;
+    padding: 20px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.card
+{
+    height: 140px;
+    width: 130px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.card img
+{
+    margin: 15px 30px;
+    height: 80px;
+    width: 80px;
+}
+.card_p
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fontcolor
+{
+    color: blue;
+}

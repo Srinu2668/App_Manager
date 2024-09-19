@@ -1,0 +1,23 @@
+.ul
+{
+    display: flex;
+    list-style-type: none;
+}
+.ul li
+{
+    margin: 15px;
+    padding: 5px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+.fontcolor1
+{
+    color: blue;
+    border-bottom:3px solid blue;
+}
+.fontcolor2
+{
+    color: rgba(0, 0, 0, 0.5);
+    border-bottom:3px solid rgba(0, 0, 0, 0.5)
+}
